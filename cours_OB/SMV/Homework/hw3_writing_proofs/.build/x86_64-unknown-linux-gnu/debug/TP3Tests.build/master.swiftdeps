@@ -1,0 +1,21 @@
+version: "Swift version 5.5 (swift-5.5-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1636562519, 393605947]
+build_end_time: [1636562519, 867806911]
+inputs:
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/TP3Tests/ADTTests/BoolTest.swift": [1636100763, 959867954]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/TP3Tests/ADTTests/IntTests.swift": [1636100763, 959867954]
+  ? "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/TP3Tests/ADTTests/MultiSetTests.swift"
+  : [1636100763, 959867954]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/TP3Tests/ADTTests/NatTests.swift": [1636100763, 959867954]
+  ? "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/TP3Tests/ADTTests/SequenceTests.swift"
+  : [1636100763, 959867954]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/TP3Tests/ADTTests/SetTests.swift": [1636100763, 959867954]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/TP3Tests/ADTTests/StackTests.swift": [1636100763, 959867954]
+  ? "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/TP3Tests/ProofsTests/NatProofsTests.swift"
+  : [1636554508, 562462806]
+  ? "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/TP3Tests/ProofsTests/ProofsTests.swift"
+  : [1636100763, 959867954]
+  ? "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/TP3Tests/ProofsTests/StackProofsTests.swift"
+  : [1636562514, 69095134]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/TP3Tests/XCTestManifests.swift": [1636100763, 959867954]

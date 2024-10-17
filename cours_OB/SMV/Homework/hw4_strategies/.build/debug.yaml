@@ -1,0 +1,121 @@
+client:
+  name: basic
+tools: {}
+targets:
+  "Homework-debug.module": ["<Homework-debug.module>"]
+  "HomeworkPackageTests-debug.module": ["<HomeworkPackageTests-debug.module>"]
+  "HomeworkPackageTests-debug.test": ["<HomeworkPackageTests-debug.test>"]
+  "HomeworkTests-debug.module": ["<HomeworkTests-debug.module>"]
+  "PackageStructure": ["<PackageStructure>"]
+  "main": ["<Homework-debug.module>"]
+  "test": ["<Homework-debug.module>","<HomeworkPackageTests-debug.test>","<HomeworkTests-debug.module>"]
+default: "main"
+nodes:
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/":
+    is-directory-structure: true
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Tests/HomeworkTests/":
+    is-directory-structure: true
+commands:
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Homework.swiftmodule.o":
+    tool: shell
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.swiftmodule"]
+    outputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Homework.swiftmodule.o"]
+    description: "Wrapping AST for Homework for debugging"
+    args: ["/home/lea/Logiciels_telecharges/swift-5.5-RELEASE-ubuntu20.04/usr/bin/swiftc","-modulewrap","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.swiftmodule","-o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Homework.swiftmodule.o","-target","x86_64-unknown-linux-gnu"]
+
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/HomeworkPackageTests.swiftmodule.o":
+    tool: shell
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/HomeworkPackageTests.swiftmodule"]
+    outputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/HomeworkPackageTests.swiftmodule.o"]
+    description: "Wrapping AST for HomeworkPackageTests for debugging"
+    args: ["/home/lea/Logiciels_telecharges/swift-5.5-RELEASE-ubuntu20.04/usr/bin/swiftc","-modulewrap","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/HomeworkPackageTests.swiftmodule","-o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/HomeworkPackageTests.swiftmodule.o","-target","x86_64-unknown-linux-gnu"]
+
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/HomeworkTests.swiftmodule.o":
+    tool: shell
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.swiftmodule"]
+    outputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/HomeworkTests.swiftmodule.o"]
+    description: "Wrapping AST for HomeworkTests for debugging"
+    args: ["/home/lea/Logiciels_telecharges/swift-5.5-RELEASE-ubuntu20.04/usr/bin/swiftc","-modulewrap","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.swiftmodule","-o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/HomeworkTests.swiftmodule.o","-target","x86_64-unknown-linux-gnu"]
+
+  "<Homework-debug.module>":
+    tool: phony
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Strategy.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Term.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.swiftmodule"]
+    outputs: ["<Homework-debug.module>"]
+
+  "<HomeworkPackageTests-debug.module>":
+    tool: phony
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/LinuxMain.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/HomeworkPackageTests.swiftmodule"]
+    outputs: ["<HomeworkPackageTests-debug.module>"]
+
+  "<HomeworkPackageTests-debug.test>":
+    tool: phony
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.xctest"]
+    outputs: ["<HomeworkPackageTests-debug.test>"]
+
+  "<HomeworkTests-debug.module>":
+    tool: phony
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/HomeworkNatTests.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/XCTestManifests.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.swiftmodule"]
+    outputs: ["<HomeworkTests-debug.module>"]
+
+  "C.Homework-debug.module":
+    tool: swift-compiler
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Boolean+Extension.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Boolean.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/List+Extension.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/List.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Nat+Extension.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Nat.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Strategy.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Term.swift"]
+    outputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Strategy.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Term.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.swiftmodule"]
+    executable: "/home/lea/Logiciels_telecharges/swift-5.5-RELEASE-ubuntu20.04/usr/bin/swiftc"
+    module-name: "Homework"
+    module-output-path: "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.swiftmodule"
+    import-paths: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug"]
+    temps-path: "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build"
+    objects: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Strategy.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Term.swift.o"]
+    other-args: ["-target","x86_64-unknown-linux-gnu","-swift-version","5","-enable-batch-mode","-index-store-path","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/index/store","-Onone","-enable-testing","-g","-j8","-DSWIFT_PACKAGE","-DDEBUG","-module-cache-path","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/ModuleCache","-parseable-output","-parse-as-library"]
+    sources: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Boolean+Extension.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Boolean.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/List+Extension.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/List.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Nat+Extension.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Nat.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Strategy.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Term.swift"]
+    is-library: true
+    enable-whole-module-optimization: false
+    num-threads: 8
+
+  "C.HomeworkPackageTests-debug.module":
+    tool: swift-compiler
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Tests/LinuxMain.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.swiftmodule"]
+    outputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/LinuxMain.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/HomeworkPackageTests.swiftmodule"]
+    executable: "/home/lea/Logiciels_telecharges/swift-5.5-RELEASE-ubuntu20.04/usr/bin/swiftc"
+    module-name: "HomeworkPackageTests"
+    module-output-path: "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/HomeworkPackageTests.swiftmodule"
+    import-paths: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug"]
+    temps-path: "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build"
+    objects: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/LinuxMain.swift.o"]
+    other-args: ["-target","x86_64-unknown-linux-gnu","-swift-version","5","-enable-batch-mode","-index-store-path","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/index/store","-Onone","-enable-testing","-g","-j8","-DSWIFT_PACKAGE","-DDEBUG","-module-cache-path","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/ModuleCache","-parseable-output"]
+    sources: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Tests/LinuxMain.swift"]
+    is-library: false
+    enable-whole-module-optimization: false
+    num-threads: 8
+
+  "C.HomeworkPackageTests-debug.test":
+    tool: shell
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat+Extension.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Homework.swiftmodule.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Strategy.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Term.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/HomeworkPackageTests.swiftmodule.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/LinuxMain.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/HomeworkNatTests.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/HomeworkTests.swiftmodule.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/XCTestManifests.swift.o"]
+    outputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.xctest"]
+    description: "Linking ./.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.xctest"
+    args: ["/home/lea/Logiciels_telecharges/swift-5.5-RELEASE-ubuntu20.04/usr/bin/swiftc","-L","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug","-o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.xctest","-module-name","HomeworkPackageTests","-emit-executable","-Xlinker","-rpath=$ORIGIN","@/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.product/Objects.LinkFileList","-target","x86_64-unknown-linux-gnu","-L","/home/lea/Logiciels_telecharges/swift-5.5-RELEASE-ubuntu20.04/usr/lib"]
+
+  "C.HomeworkTests-debug.module":
+    tool: swift-compiler
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Tests/HomeworkTests/HomeworkNatTests.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Tests/HomeworkTests/XCTestManifests.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.swiftmodule"]
+    outputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/HomeworkNatTests.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/XCTestManifests.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.swiftmodule"]
+    executable: "/home/lea/Logiciels_telecharges/swift-5.5-RELEASE-ubuntu20.04/usr/bin/swiftc"
+    module-name: "HomeworkTests"
+    module-output-path: "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.swiftmodule"
+    import-paths: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug"]
+    temps-path: "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build"
+    objects: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/HomeworkNatTests.swift.o","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/XCTestManifests.swift.o"]
+    other-args: ["-target","x86_64-unknown-linux-gnu","-swift-version","5","-enable-batch-mode","-index-store-path","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/index/store","-Onone","-enable-testing","-g","-j8","-DSWIFT_PACKAGE","-DDEBUG","-module-cache-path","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/ModuleCache","-parseable-output","-parse-as-library"]
+    sources: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Tests/HomeworkTests/HomeworkNatTests.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Tests/HomeworkTests/XCTestManifests.swift"]
+    is-library: true
+    enable-whole-module-optimization: false
+    num-threads: 8
+
+  "PackageStructure":
+    tool: package-structure-tool
+    inputs: ["/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Tests/HomeworkTests/","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Package.swift","/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Package.resolved"]
+    outputs: ["<PackageStructure>"]
+    description: "Planning build"
+    allow-missing-inputs: true
+

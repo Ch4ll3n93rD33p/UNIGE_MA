@@ -1,0 +1,9 @@
+version: "Swift version 5.5 (swift-5.5-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1639072572, 638961]
+build_end_time: [1639072572, 221709966]
+inputs:
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/CTL+Extensions.swift": [1638967883, 81293821]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/CTL.swift": [1638188351, 145877361]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/Kripke+Extensions.swift": [1639072569, 993794679]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/Kripke.swift": [1638188351, 145877361]

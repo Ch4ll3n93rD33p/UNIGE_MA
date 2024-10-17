@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3PackageTests.build/master.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Tests/LinuxMain.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3PackageTests.build/LinuxMain.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3PackageTests.build/LinuxMain.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3PackageTests.build/LinuxMain~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3PackageTests.build/LinuxMain.swiftdeps"
+  }
+}

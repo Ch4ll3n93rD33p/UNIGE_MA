@@ -1,0 +1,17 @@
+version: "Swift version 5.5 (swift-5.5-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1634812874, 633649826]
+build_end_time: [1634812877, 441235065]
+inputs:
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/adt.swift": [1634812734, 149989604]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/adtmanager.swift": [1634812734, 149989604]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/adts/boolean.swift": [1634812734, 149989604]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/adts/numbers.swift": [1634812734, 149989604]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/adts/set.swift": [1634812734, 149989604]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/errors.swift": [1634812734, 149989604]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/proofs.swift": [1634812734, 149989604]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/rule.swift": [1634812734, 149989604]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/utils/helpers.swift": [1634812734, 149989604]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/utils/operator.swift": [1634812734, 149989604]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/utils/ssugar.swift": [1634812734, 149989604]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw2_proofs/Source/Homework/utils/typing.swift": [1634812734, 149989604]

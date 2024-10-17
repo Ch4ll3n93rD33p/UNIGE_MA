@@ -1,0 +1,6 @@
+version: "Swift version 5.5 (swift-5.5-RELEASE)"
+options: "bb4a94a12ff7ec22b2e1f1ade65daf121ef7715d8d60c7fdd4f1dc513cb662d4"
+build_start_time: [1638285199, 899122953]
+build_end_time: [1638285200, 182392120]
+inputs:
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Tests/LinuxMain.swift": [1638188351, 149877548]

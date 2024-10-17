@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/master.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Boolean+Extension.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean+Extension.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean+Extension.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean+Extension~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean+Extension.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Boolean.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Boolean.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/List+Extension.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List+Extension.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List+Extension.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List+Extension~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List+Extension.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/List.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/List.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Nat+Extension.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat+Extension.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat+Extension.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat+Extension~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat+Extension.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Adts/Nat.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Adts/Nat.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Strategy.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Strategy.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Strategy.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Strategy~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Strategy.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Sources/Homework/Term.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Term.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Term.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Term~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Term.swiftdeps"
+  }
+}

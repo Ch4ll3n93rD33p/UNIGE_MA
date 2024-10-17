@@ -1,0 +1,7 @@
+version: "Swift version 5.5 (swift-5.5-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1636101980, 880862951]
+build_end_time: [1636101983, 6636142]
+inputs:
+  ? "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/checkouts/SwiftKanren/Sources/SwiftKanren/SwiftKanren.swift"
+  : [1636101955, 809325456]

@@ -1,0 +1,216 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.xctest",
+      "productName" : "HomeworkPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftCommands" : {
+    "C.Homework-debug.module" : {
+      "executable" : "/home/lea/Logiciels_telecharges/swift-5.5-RELEASE-ubuntu20.04/usr/bin/swiftc",
+      "importPath" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/CTL+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/CTL.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/Kripke+Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/Kripke.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Homework",
+      "moduleOutputPath" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.swiftmodule",
+      "objects" : [
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.build/CTL+Extensions.swift.o",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.build/CTL.swift.o",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Kripke+Extensions.swift.o",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Kripke.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-linux-gnu",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.build/CTL+Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.build/CTL.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Kripke+Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.build/Kripke.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/CTL+Extensions.swift",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/CTL.swift",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/Kripke+Extensions.swift",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Sources/Homework/Kripke.swift"
+      ],
+      "tempsPath" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.HomeworkPackageTests-debug.module" : {
+      "executable" : "/home/lea/Logiciels_telecharges/swift-5.5-RELEASE-ubuntu20.04/usr/bin/swiftc",
+      "importPath" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Tests/LinuxMain.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.swiftmodule"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "HomeworkPackageTests",
+      "moduleOutputPath" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/HomeworkPackageTests.swiftmodule",
+      "objects" : [
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/LinuxMain.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-linux-gnu",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+        "-parseable-output"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/LinuxMain.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build/HomeworkPackageTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Tests/LinuxMain.swift"
+      ],
+      "tempsPath" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.HomeworkTests-debug.module" : {
+      "executable" : "/home/lea/Logiciels_telecharges/swift-5.5-RELEASE-ubuntu20.04/usr/bin/swiftc",
+      "importPath" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Tests/HomeworkTests/HomeworkTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Tests/HomeworkTests/XCTestManifests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/Homework.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "HomeworkTests",
+      "moduleOutputPath" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.swiftmodule",
+      "objects" : [
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/HomeworkTests.swift.o",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/XCTestManifests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-linux-gnu",
+        "-swift-version",
+        "4.2",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/HomeworkTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build/XCTestManifests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Tests/HomeworkTests/HomeworkTests.swift",
+        "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Tests/HomeworkTests/XCTestManifests.swift"
+      ],
+      "tempsPath" : "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/.build/x86_64-unknown-linux-gnu/debug/HomeworkTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

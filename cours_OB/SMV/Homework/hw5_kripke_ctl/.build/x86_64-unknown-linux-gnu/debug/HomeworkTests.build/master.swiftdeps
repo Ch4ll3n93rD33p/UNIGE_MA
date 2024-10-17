@@ -1,0 +1,7 @@
+version: "Swift version 5.5 (swift-5.5-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1638285197, 871747970]
+build_end_time: [1638285199, 861219882]
+inputs:
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Tests/HomeworkTests/HomeworkTests.swift": [1638188351, 149877548]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw5_kripke_ctl/Tests/HomeworkTests/XCTestManifests.swift": [1638188351, 149877548]

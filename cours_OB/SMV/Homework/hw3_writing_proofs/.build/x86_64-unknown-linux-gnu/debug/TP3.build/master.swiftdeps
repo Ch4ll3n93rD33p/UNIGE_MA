@@ -1,0 +1,21 @@
+version: "Swift version 5.5 (swift-5.5-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1636101983, 61516046]
+build_end_time: [1636101985, 735539913]
+inputs:
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adt.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adtmanager.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/boolean.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/integer.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/multiset.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/natural.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/sequence.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/set.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/stack.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/errors.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/proofs.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/rule.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/utils/helpers.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/utils/operator.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/utils/ssugar.swift": [1636100763, 955867767]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/utils/typing.swift": [1636100763, 955867767]

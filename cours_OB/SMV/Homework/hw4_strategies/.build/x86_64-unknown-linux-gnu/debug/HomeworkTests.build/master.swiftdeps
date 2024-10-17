@@ -1,0 +1,7 @@
+version: "Swift version 5.5 (swift-5.5-RELEASE)"
+options: "90b54327614ca6561a87234e98b7b0a59dc6edf3a2f16cedb5d63b85890750fb"
+build_start_time: [1637747348, 958817005]
+build_end_time: [1637747350, 704804897]
+inputs:
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Tests/HomeworkTests/HomeworkNatTests.swift": [1637055581, 336994171]
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw4_strategies/Tests/HomeworkTests/XCTestManifests.swift": [1637055581, 336994171]

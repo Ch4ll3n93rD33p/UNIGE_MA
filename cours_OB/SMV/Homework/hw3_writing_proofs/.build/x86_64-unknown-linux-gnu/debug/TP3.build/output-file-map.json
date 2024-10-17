@@ -1,0 +1,101 @@
+{
+  "": {
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/master.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adt.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adt.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adt.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adt~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adt.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adtmanager.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adtmanager.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adtmanager.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adtmanager~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adtmanager.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/boolean.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/boolean.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/boolean.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/boolean~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/boolean.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/integer.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/integer.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/integer.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/integer~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/integer.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/multiset.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/multiset.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/multiset.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/multiset~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/multiset.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/natural.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/natural.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/natural.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/natural~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/natural.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/sequence.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/sequence.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/sequence.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/sequence~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/sequence.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/set.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/set.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/set.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/set~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/set.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/adts/stack.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/stack.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/stack.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/stack~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/adts/stack.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/errors.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/errors.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/errors.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/errors~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/errors.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/proofs.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/proofs.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/proofs.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/proofs~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/proofs.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/rule.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/rule.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/rule.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/rule~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/rule.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/utils/helpers.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/helpers.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/helpers.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/helpers~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/helpers.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/utils/operator.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/operator.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/operator.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/operator~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/operator.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/utils/ssugar.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/ssugar.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/ssugar.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/ssugar~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/ssugar.swiftdeps"
+  },
+  "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/Source/TP3/utils/typing.swift": {
+    "dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/typing.d",
+    "object": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/typing.swift.o",
+    "swiftmodule": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/typing~partial.swiftmodule",
+    "swift-dependencies": "/home/lea/Bureau/Uni/MA/1ere/SMV/modelisation-verification/Homework/hw3_writing_proofs/.build/x86_64-unknown-linux-gnu/debug/TP3.build/utils/typing.swiftdeps"
+  }
+}

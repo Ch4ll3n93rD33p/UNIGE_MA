@@ -1,0 +1,18 @@
+# Metaheuristics for optimization TP3
+# 31.10.2022  
+# Lea Heiniger
+
+# cities put in circle
+
+a 0 10
+b 6 8
+c 8 6
+d 10 0
+e 8 -6
+f 6 -8
+g 0 -10
+h -6 -8
+i -8 -6
+j -10 0
+k -8 6
+l -6 8

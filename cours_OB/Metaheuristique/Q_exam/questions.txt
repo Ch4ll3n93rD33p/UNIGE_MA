@@ -1,0 +1,66 @@
+1- Optimization problems and the search space
+
+2- Main principles of metaheurstics, neighborhood, movements,
+  exploration operator, population metaheuristics
+
+3- The space of permutations
+
+4- Complexity and the need for metaheuristics, exploration versus
+  exploitation
+
+5- Random search, random walk, hill climbing
+
+6- NK-problems: motivation, definition, goal.
+
+7- Tabu Search: main principles and convergence
+
+8- The different ways to implement the tabu list.
+
+9- Quadratic Assignment Problems
+
+10- Simulated annealing, main principles and the Metropolis rule
+
+11- Simulated annealing, flow chart and choice of parameters
+
+12- Convergence of simulated annealing: how to formulate it, how to
+    compute it.
+
+13- Ant-like algorithms: swarm intelligence, the pheromone trail, and
+  observations about real ants.
+
+14- Ant System: description of the algorithm for the TSP problem
+
+15- Ant algorithms: the simple version in {0,1}^N, and discussion of
+    performance
+
+16- Particle Swarm Optimization: algorithm and example
+
+17- The Firefly algorithm
+
+18- Genetic algorithms: inspriration and algorithm.
+
+19- The different selection operators for GA
+
+20- The takeover time in genetic algorithms:  goal, definition, value for
+  tournament selection.
+
+21- Genetic Programming: goal, fitness evaluation, function and terminal
+  sets
+
+22- Genetic Programming: tree representation, initialization,
+     crossover, mutation, and bloat.
+
+23- Genetic Programming: the stack-based, instruction-driven representation.
+
+24- Evolution Strategy: individual and population versions.
+
+25- Performance of metaheuristics: examples, specificities of the
+performance evaluation, metrics, approach, "No Free Lunch" theorem. 
+
+26- Phase transition in optimization problems: problem description and
+  properties.
+
+27- Phase transition in optimization problems: the RWSAT algorithm and
+  its behavior.
+
+28- The parallel tempering.

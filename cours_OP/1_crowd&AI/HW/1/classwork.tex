@@ -1,0 +1,60 @@
+\documentclass[14pt]
+{article}
+
+%basiques
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+
+%math
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% images
+\usepackage{graphicx}
+
+% links and refs
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks = true,
+    linkcolor  = {red}.
+}
+
+
+%mise en page
+\usepackage{fancyhdr}
+\usepackage{fancybox}
+\usepackage{geometry}
+
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+
+\geometry{hmargin=4cm}
+
+\begin{document}
+% Entete
+\pagestyle{fancy}
+\lhead{Rose Defossez, Léa Heiniger}
+\rhead{08.03.2022}
+\chead{\textbf{Crowdsourcing and AI}}
+
+\bigskip
+\begin{center}
+	\section*{\textbf{{\LARGE User Experience of a Zooniverse project}}}
+\end{center}
+\bigskip\bigskip\bigskip
+
+\paragraph*{}We looked at the \href{https://www.zooniverse.org/projects/victorav/spyfish-aotearoa}{Spyfish Aotearoa} project. There are two tasks for this project, one with video files where we have to time-stamp the first time we can see the most fish for each visible species, and one with photos where we have to draw boxes around the fish of three different species.\\
+
+\section*{Science :}
+\paragraph*{}By participating in this project, we have learned about marine reserves (especially the ones in Aotearoa). We also learned about the research: how they take underwater videos and photos, the questions they want to answer and how AI combined with the tasks we perform will help them. Finally, by doing the tasks, we learned about the fish species in this area and how to identify them.\\
+
+\section*{Technology :}
+\paragraph*{}We found the overall interface well done, it is easy to find the different info and understand what is where. The interface for the task on video files is also great, we can very easily use the different criteria to help us identify what kind of fish we are looking at. But the interface for the task on photos is less intuitive and it is very complicated to zoom in and out on the image without moving the boxes we have already drawn.\\
+
+\section*{Society :}
+\paragraph*{}There are 1491 volunteers on this project who can communicate with each other or with the project scientists using the forums in the "talk" tab.\\
+
+\section*{AI :}
+\paragraph*{}The aim of this project is to create an AI that can identify fish species from photos or videos. The tasks we perform are used to create a dataset to train machine learning models and, in the long term, the work will be done solely by the AI developed.\\
+
+\end{document}

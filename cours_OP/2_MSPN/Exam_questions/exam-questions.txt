@@ -1,0 +1,86 @@
+1. How can one describe a natural system in view of a modeling and
+   simulation approach? How are time and space handeled? Why does one
+   need various modeling approaches? What do "boundary conditions" and
+   "initial condition" mean?
+
+2. What is a dynamical system and how are they described? Explain the
+   concepts of fixed point, limit cycle and chaos. Give examples.
+
+3. How can one solve differential equations, both ordinary and partial ones?
+
+4. Explain the concept of "balance equations" in the context of
+   dynamical systems. Explain the method of "vannes et
+   réservoirs". Illustrate the approch on a problem of your choice.
+
+5. Defined a cellular automaton (CA), both intuitively and
+   mathematically.  Explain the goal of this approach. Explain how the
+   evolution can be computed and discuss how many CA exist.
+
+6. Explain the cellular automata rule for car traffic. How can you
+   justify it? Can you propose interesting boundary conditions or
+   additional features?
+
+7. Propose a cellular automata to model a Lotka-Voltera
+   process. Discuss your choice and hypothesis and compare your
+   approach to other ways of describing a prey-predator system.
+
+8. What is a lattice-gas? Explain the HPP model and its central
+   physical properties.
+
+9. What is a diffusion process? Explain the different approches
+   discussed in the course.
+
+10. Explain the concept of a Monte-Carlo simulation to simulate a
+    natural process. Give simple examples.
+
+11. Explain how Monte-Carlo simulations are used to sample a given
+    probability distribution. Give an example that illustrates the link
+    with the modeling approach.
+
+12. What are the main quantities used to specify a graph? Additionnaly,
+    define the clustering coefficient and explain its meaning. What
+    does "centrality" mean?
+
+13. Explain what "assortativity" means in a complex network, and how it
+    can be measured. What is a "community" and how can one determine them?
+
+14. How can you build a graph on a computer? What are the different
+    types of graphs? Propose a dynamical model of your choice on a
+    complex network and discuss it.
+
+15. What is the lattice Boltzmann method? Explain the purpose of the
+    method, define the method through its equations, and provide a
+    brief explanation on how to write an algorithm for this method.
+
+16. Explain the term "Computational Fluid Dynamics". Explain how a
+    lattice-gas and the lattice Boltzmann method are used in this
+    context, and explain the differences between the two approaches.
+
+17. Explain the purpose of the Barnes-Hut algorithm and provide details
+    about how the algorithm works.
+
+18. Present three inter-particle potentials (gravity, Coulomb, Lennard-
+    Jones). Explain the algorithmic complexity of resolving the
+    interaction between particles, and explain the possible work-arounds
+    for each of the three potentials.
+
+19. Present three inter-particle potentials (gravity, Coulomb, Lennard-
+    Jones), explain the concept of short-range and long-range interaction
+    and their impact on algorithmic complexity. Present the equations of
+    motion for many-particle systems, and the Verlet ("leap-frog") algorithm
+    for their temporal integration.
+    
+20. What are agent based models ? Define the different kind of agents.
+    Define the behavior and discuss implementations. Illustrate with examples.
+
+21. Discuss about agents models spatial aspects, various topologies and
+    neighbourhoods. Detail the different approaches and their consequences.
+    Illustrate with examples.
+
+22. What are discrete events models ? Define the different elements of such
+    models, and the differences with continuous time approach. Illustrate with
+    examples.
+
+23. Discuss about discrete event systems implementation. After summarizing the
+    discrete events approach, propose concrete methods to implements them
+    efficiently.
